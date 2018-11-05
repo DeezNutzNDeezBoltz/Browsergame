@@ -1,0 +1,21 @@
+{
+  "name": "browsergame",
+  "version": "1.0.0",
+  "description": "Game in works",
+  "main": "base.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dragons",
+    "fantasy",
+    "openworld"
+  ],
+  "author": "Zachary Wilson Bullard, Isabella Parish, Annabelle Rachael Sellings",
+  "license": "ISC"
+}
