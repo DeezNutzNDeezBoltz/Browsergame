@@ -11,7 +11,7 @@ app.get('/', function (req, res) {
 });
 app.use('/client', express.static(__dirname + '/client'));
 
-serv.listen(80);
+serv.listen(443);
 console.log("Game has booted! Enjoy!")
 
 var io = require('socket.io')(serv, {});
